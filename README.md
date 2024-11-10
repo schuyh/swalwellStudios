@@ -25,8 +25,8 @@
 
 ### Phase I: Coming Soon
 
-[ ] Add logo
-[ ] Add copy: "Coming Soon"
+[x] Add logo
+[x] Add copy: "Coming Soon"
 [ ] Animate logo (swipe L>R - 2750)
 [ ] Animate copy (await logo, fade in - 2250)
 
